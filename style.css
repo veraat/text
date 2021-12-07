@@ -1,0 +1,26 @@
+.end{
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(156, 156, 156);
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: grey;
+}
+
+#videoElement {
+    position: absolute;
+    width: 550px;
+    height: 520px;
+    top: 895px;
+    left: 800px;
+}
